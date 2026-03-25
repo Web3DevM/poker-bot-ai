@@ -35,6 +35,8 @@ Notes:
 
 Roboflow is a cloud platform and runs in a browser. All data is stored on servers. For businesses, this can be sensitive. For a pet project, it's fine.
 
+<img width="1560" height="781" alt="ef68e5ab0a2a2ddb048c20540f64257c" src="https://github.com/user-attachments/assets/779814a7-1bce-45f3-86dd-3e1d59d621c5" />
+
 # Augmentation
 
 Augmentation is the artificial expansion of a training dataset (train) using various image transformations (rotations, flips, noise, color changes, etc.).
