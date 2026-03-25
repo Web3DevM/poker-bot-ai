@@ -47,3 +47,6 @@ Changing the color scale doesn't change the image for a human eye; it remains es
 
 This also helps the model be resilient to noise, unexpected angles, and various anomalies in the data.
 
+It took just over four weeks from the idea to a working prototype. I did everything myself: from the project structure and mathematics to the recognition models and interface. AI tools helped at every step: in some cases they sped up the work, in others they suggested solutions, but I still had to guide and refine everything manually.
+
+In the end, I created an MVP that actually works: it sees cards, understands the board situation, calculates EV, and suggests actions.
