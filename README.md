@@ -12,6 +12,9 @@ A week was spent training my YOLO models. I managed to train two models: one for
 
 Finally, a week was spent putting everything together, testing, fixing bugs, and compiling it into an executable file.
 
+<img width="1560" height="616" alt="4bd738247d0d6041f2ecac8ec43b62ea" src="https://github.com/user-attachments/assets/e409ccb2-928f-4da1-ba5a-045185ab49cf" />
+
+
 # Computer Vision
 
 Computer Vision is a field of artificial intelligence that allows computers to "see" and interpret images and videos.
