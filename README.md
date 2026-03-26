@@ -50,3 +50,6 @@ This also helps the model be resilient to noise, unexpected angles, and various 
 It took just over four weeks from the idea to a working prototype. I did everything myself: from the project structure and mathematics to the recognition models and interface. AI tools helped at every step: in some cases they sped up the work, in others they suggested solutions, but I still had to guide and refine everything manually.
 
 In the end, I created an MVP that actually works: it sees cards, understands the board situation, calculates EV, and suggests actions.
+
+![316507960-5831544b-14c2-412c-acb0-a72d67a3c589](https://github.com/user-attachments/assets/fd8fd7ab-c0e0-4a81-9279-a91db06bdd05)
+
