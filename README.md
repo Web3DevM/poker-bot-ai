@@ -51,5 +51,3 @@ It took just over four weeks from the idea to a working prototype. I did everyth
 
 In the end, I created an MVP that actually works: it sees cards, understands the board situation, calculates EV, and suggests actions.
 
-![316507960-5831544b-14c2-412c-acb0-a72d67a3c589](https://github.com/user-attachments/assets/fd8fd7ab-c0e0-4a81-9279-a91db06bdd05)
-
