@@ -14,7 +14,6 @@ Finally, a week was spent putting everything together, testing, fixing bugs, and
 
 <img width="1560" height="616" alt="4bd738247d0d6041f2ecac8ec43b62ea" src="https://github.com/user-attachments/assets/e409ccb2-928f-4da1-ba5a-045185ab49cf" />
 
-
 # Computer Vision
 
 Computer Vision is a field of artificial intelligence that allows computers to "see" and interpret images and videos.
@@ -24,6 +23,9 @@ If you think about it, it's a pretty cool technology! Essentially, it's a mechan
 There are many different methods, programs, and libraries that implement CV.
 
 I chose YOLO.
+
+![images](https://github.com/user-attachments/assets/6ef85d14-1044-441f-80ae-77e74659c674)
+
 
 # A Brief Introduction to Roboflow
 
